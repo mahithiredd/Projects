@@ -42,7 +42,7 @@ Every push and pull here reflects:
 ## 💬 Want to Connect?
 
 If you’re into code, clouds, or caffeine-fueled innovation —  
-📫 Ping me via [LinkedIn](https://www.linkedin.com/in/your-profile) or open an issue to collaborate!
+📫 Ping me via [LinkedIn](www.linkedin.com/in/mahithi-tanguturi) or open an issue to collaborate!
 
 ---
 
