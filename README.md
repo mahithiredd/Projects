@@ -47,7 +47,7 @@ If you’re into code, clouds, or caffeine-fueled innovation —
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200" />
 </p>
 
 <p align="center">⚡ Powered by curiosity and late-night debugging ☕</p>
